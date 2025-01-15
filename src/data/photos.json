@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "title": "Sunset over the mountains",
+      "description": "A beautiful sunset captured over the rocky mountains.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1015/300/200",
+      "dateAdded": "2025-01-01"
+    },
+    {
+      "id": 2,
+      "title": "City skyline",
+      "description": "The skyline of a bustling city at night.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1016/300/200",
+      "dateAdded": "2025-01-03"
+    },
+    {
+      "id": 3,
+      "title": "Forest path",
+      "description": "A serene path through a lush green forest.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1018/300/200",
+      "dateAdded": "2025-01-04"
+    },
+    {
+      "id": 4,
+      "title": "Modern architecture",
+      "description": "A futuristic building with an interesting design.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1019/300/200",
+      "dateAdded": "2025-01-05"
+    },
+    {
+      "id": 5,
+      "title": "Beach sunset",
+      "description": "Waves crashing on the shore under a colorful sunset.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1020/300/200",
+      "dateAdded": "2025-01-06"
+    },
+    {
+      "id": 6,
+      "title": "Vintage car",
+      "description": "A classic car parked on a cobblestone street.",
+      "category": "Objects",
+      "url": "https://picsum.photos/id/1021/300/200",
+      "dateAdded": "2025-01-07"
+    },
+    {
+      "id": 7,
+      "title": "Snowy mountains",
+      "description": "A breathtaking view of snow-covered peaks.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1022/300/200",
+      "dateAdded": "2025-01-08"
+    },
+    {
+      "id": 8,
+      "title": "City street at night",
+      "description": "Neon lights illuminating a busy street.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1023/300/200",
+      "dateAdded": "2025-01-09"
+    },
+    {
+      "id": 9,
+      "title": "Desert dunes",
+      "description": "Golden sand dunes under a clear blue sky.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1024/300/200",
+      "dateAdded": "2025-01-10"
+    },
+    {
+      "id": 10,
+      "title": "Old wooden bridge",
+      "description": "A rustic bridge crossing a tranquil river.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1025/300/200",
+      "dateAdded": "2025-01-11"
+    },
+    {
+      "id": 11,
+      "title": "Modern cityscape",
+      "description": "Skyscrapers reflecting the golden hour.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1026/300/200",
+      "dateAdded": "2025-01-12"
+    },
+    {
+      "id": 12,
+      "title": "Blooming flowers",
+      "description": "A field full of vibrant, blooming flowers.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1077/300/200",
+      "dateAdded": "2025-01-13"
+    },
+    {
+      "id": 13,
+      "title": "Rustic barn",
+      "description": "An old barn surrounded by rolling hills.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1028/300/200",
+      "dateAdded": "2025-01-14"
+    },
+    {
+      "id": 14,
+      "title": "Frozen lake",
+      "description": "A peaceful lake covered with ice.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1029/300/200",
+      "dateAdded": "2025-01-15"
+    },
+    {
+      "id": 15,
+      "title": "Foggy forest",
+      "description": "Trees shrouded in morning fog.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1048/300/200",
+      "dateAdded": "2025-01-16"
+    },
+    {
+      "id": 16,
+      "title": "Mountain lake",
+      "description": "Crystal clear water reflecting the surrounding mountains.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1031/300/200",
+      "dateAdded": "2025-01-17"
+    },
+    {
+      "id": 17,
+      "title": "Street art",
+      "description": "A vibrant mural painted on a city wall.",
+      "category": "Art",
+      "url": "https://picsum.photos/id/1032/300/200",
+      "dateAdded": "2025-01-18"
+    },
+    {
+      "id": 18,
+      "title": "Sunny meadow",
+      "description": "A picturesque meadow bathed in sunlight.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1033/300/200",
+      "dateAdded": "2025-01-19"
+    },
+    {
+      "id": 19,
+      "title": "Ancient ruins",
+      "description": "The remnants of a once-grand civilization.",
+      "category": "History",
+      "url": "https://picsum.photos/id/1047/300/200",
+      "dateAdded": "2025-01-20"
+    },
+    {
+      "id": 20,
+      "title": "Starry night sky",
+      "description": "A breathtaking view of the Milky Way.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1035/300/200",
+      "dateAdded": "2025-01-21"
+    },
+    {
+      "id": 21,
+      "title": "Cobbled street",
+      "description": "An old street lined with quaint buildings.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1036/300/200",
+      "dateAdded": "2025-01-22"
+    },
+    {
+      "id": 22,
+      "title": "Snowy forest",
+      "description": "Snow-covered trees glistening in the sunlight.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1037/300/200",
+      "dateAdded": "2025-01-23"
+    },
+    {
+      "id": 23,
+      "title": "Modern art museum",
+      "description": "A sleek building housing contemporary art.",
+      "category": "Art",
+      "url": "https://picsum.photos/id/1038/300/200",
+      "dateAdded": "2025-01-24"
+    },
+    {
+      "id": 24,
+      "title": "Seaside cliffs",
+      "description": "Towering cliffs overlooking the ocean.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1039/300/200",
+      "dateAdded": "2025-01-25"
+    },
+    {
+      "id": 25,
+      "title": "Lush rainforest",
+      "description": "A dense rainforest teeming with life.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1040/300/200",
+      "dateAdded": "2025-01-26"
+    },
+    {
+      "id": 26,
+      "title": "Abandoned factory",
+      "description": "An old factory slowly reclaimed by nature.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1041/300/200",
+      "dateAdded": "2025-01-27"
+    },
+    {
+      "id": 27,
+      "title": "Rolling hills",
+      "description": "Gentle hills under a clear blue sky.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1042/300/200",
+      "dateAdded": "2025-01-28"
+    },
+    {
+      "id": 28,
+      "title": "City bridge",
+      "description": "A modern bridge spanning a wide river.",
+      "category": "Architecture",
+      "url": "https://picsum.photos/id/1043/300/200",
+      "dateAdded": "2025-01-29"
+    },
+    {
+      "id": 29,
+      "title": "Golden sunset",
+      "description": "The sun setting over a calm ocean.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1044/300/200",
+      "dateAdded": "2025-01-30"
+    },
+    {
+      "id": 30,
+      "title": "Urban park",
+      "description": "A green oasis in the heart of the city.",
+      "category": "Nature",
+      "url": "https://picsum.photos/id/1045/300/200",
+      "dateAdded": "2025-01-31"
+    }
+  ]
+  
